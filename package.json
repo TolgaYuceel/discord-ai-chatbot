@@ -1,0 +1,17 @@
+{
+  "name": "discord-ai-chatbot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "TolgaYuceel",
+  "license": "ISC",
+  "description": "Discord ai chatbot.",
+  "dependencies": {
+    "@google/generative-ai": "^0.12.0",
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
